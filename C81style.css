@@ -1,0 +1,19 @@
+
+h1
+{
+	color: rgb(255, 206, 236); 
+	font-size: 40px;
+}
+.body_background {
+	background-image: url("bg1.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+#myCanvas{
+ background-color: aquamarine;
+ border-width: 20px;
+ border-style: double;
+}
